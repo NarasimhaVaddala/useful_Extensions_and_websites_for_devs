@@ -1,8 +1,30 @@
+## Follow Me
+
+<a href="https://linkedin.com/in/narasimhavaddala">
+  <img src="./Linkedin.png" alt="Sample Image" width="30" height="30">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/narasimha_62">
+  <img src="./x-twitter.svg" alt="Sample Image" width="30" height="30" style="filter:invert()">
+</a>  
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/narasimhavaddala">
+  <img src="./github.svg" alt="Sample Image" width="30" height="30" style="filter:invert()">
+</a>  
+
+
+<br>
+
+
+
 ## Realtime colors 
 * It is a color theme picker for making websites or apps
 * Link : https://www.realtimecolors.com
 
-## Shape Divider
+## Shape Divider![Alt text](url-to-image)
+
+<!-- Using HTML -->
+
+
 * It is a css tool to make curved shapes for containers 
 * Link : https://www.shapedivider.app/
 
@@ -25,5 +47,7 @@
 ## Bennetfeely
 - It is a clippath generator , clippath is a css property used to make different shapes<br>
 - Link : https://bennettfeely.com/clippy/
+
+
 
 
