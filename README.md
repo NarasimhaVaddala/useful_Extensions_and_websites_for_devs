@@ -4,11 +4,11 @@
   <img src="./Linkedin.png" alt="Sample Image" width="30" height="30">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://x.com/narasimha_62">
-  <img src="./x-twitter.svg" alt="Sample Image" width="30" height="30" style="filter:invert()">
+  <img src="./x.png" alt="Sample Image" width="30" height="30">
 </a>  
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/narasimhavaddala">
-  <img src="./github.svg" alt="Sample Image" width="30" height="30" style="filter:invert()">
+  <img src="./github.png" alt="Sample Image" width="30" height="30" style="filter:invert()">
 </a>  
 
 
