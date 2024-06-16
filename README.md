@@ -20,7 +20,7 @@
 * It is a color theme picker for making websites or apps
 * Link : https://www.realtimecolors.com
 
-## Shape Divider![Alt text](url-to-image)
+## Shape Divider
 
 <!-- Using HTML -->
 
