@@ -8,7 +8,7 @@
 </a>  
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/narasimhavaddala">
-  <img src="github-inverted.svg" alt="Sample Image" width="30" height="30" style="filter:invert(100%)">
+  <img src="github-inverted.svg" alt="Sample Image" width="30" height="30" >
 </a>  
 
 
