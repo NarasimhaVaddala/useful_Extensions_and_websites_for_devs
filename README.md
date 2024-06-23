@@ -49,6 +49,10 @@
 - It is a clippath generator , clippath is a css property used to make different shapes<br>
 - Link : https://bennettfeely.com/clippy/
 
+## UI Verse
+- This website Contains Impressive UI elements done using Html and Css<br>
+- Link : https://uiverse.io/
+
 
 
 
