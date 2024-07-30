@@ -54,7 +54,7 @@
 - Link : https://uiverse.io/
 
 ## Unsplash and Pexels
-- This website Contains Free images with no license required<br>
+- These websites Contains Free images with no license required<br>
 - Link : https://unsplash.com/
 - Link : https://www.pexels.com/
 
